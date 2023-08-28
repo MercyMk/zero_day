@@ -1,1 +1,2 @@
-This file is mandatory in projects
+Test file 2
+
